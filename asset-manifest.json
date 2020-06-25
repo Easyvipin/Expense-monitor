@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Expense-monitor/static/css/main.0fdbc3b3.chunk.css",
+    "main.js": "/Expense-monitor/static/js/main.12978d43.chunk.js",
+    "main.js.map": "/Expense-monitor/static/js/main.12978d43.chunk.js.map",
+    "runtime-main.js": "/Expense-monitor/static/js/runtime-main.0444728a.js",
+    "runtime-main.js.map": "/Expense-monitor/static/js/runtime-main.0444728a.js.map",
+    "static/js/2.5866743a.chunk.js": "/Expense-monitor/static/js/2.5866743a.chunk.js",
+    "static/js/2.5866743a.chunk.js.map": "/Expense-monitor/static/js/2.5866743a.chunk.js.map",
+    "index.html": "/Expense-monitor/index.html",
+    "precache-manifest.3e2816eab019137d4eefe846adcf5add.js": "/Expense-monitor/precache-manifest.3e2816eab019137d4eefe846adcf5add.js",
+    "service-worker.js": "/Expense-monitor/service-worker.js",
+    "static/css/main.0fdbc3b3.chunk.css.map": "/Expense-monitor/static/css/main.0fdbc3b3.chunk.css.map",
+    "static/js/2.5866743a.chunk.js.LICENSE.txt": "/Expense-monitor/static/js/2.5866743a.chunk.js.LICENSE.txt",
+    "static/media/bills.jpg": "/Expense-monitor/static/media/bills.a84459af.jpg",
+    "static/media/total.css": "/Expense-monitor/static/media/brand.b55e877b.jpg",
+    "static/media/dollar.png": "/Expense-monitor/static/media/dollar.89ca6dd0.png",
+    "static/media/grocery.jpg": "/Expense-monitor/static/media/grocery.d0f656d2.jpg",
+    "static/media/rent.jpg": "/Expense-monitor/static/media/rent.8eee8245.jpg",
+    "static/media/school.jpg": "/Expense-monitor/static/media/school.662367fe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0444728a.js",
+    "static/js/2.5866743a.chunk.js",
+    "static/css/main.0fdbc3b3.chunk.css",
+    "static/js/main.12978d43.chunk.js"
+  ]
+}
